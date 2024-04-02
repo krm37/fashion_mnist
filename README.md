@@ -14,4 +14,4 @@ The Fashion-MNIST dataset is split into a training set of 60,000 images and a te
 * Ankle boot
 
 ## Goal
-Main goal is to classify test images with the highest accuracy
+Goal is to classify images with the highest accuracy
